@@ -1,1 +1,1 @@
-# Entity reslationship Diagram 
+# Entity Relationship Diagram 
